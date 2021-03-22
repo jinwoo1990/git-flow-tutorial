@@ -1,2 +1,3 @@
 print("blog")
-print("filter")
+filter = "filter"
+print(filter)
